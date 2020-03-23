@@ -1,7 +1,7 @@
 # CaptchaGenerator
 Python program to generate Captcha using pillow library.  
   
-</b>REQUIREMENT :</b>  
+<b>REQUIREMENT :</b>  
 i) Python3.x  
 ii) Pillow Library (pip install pillow)  
   
